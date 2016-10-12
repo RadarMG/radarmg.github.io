@@ -1,0 +1,5 @@
+# Radar MG [![VRS version 2.4](https://img.shields.io/badge/VRS-v2.4-blue.svg)](http://virtualradarserver.co.uk/Download.aspx) [![Build Status](https://scrutinizer-ci.com/g/dedevillela/VRS-Operator-Flags/badges/build.png?b=master)](https://scrutinizer-ci.com/g/dedevillela/VRS-Operator-Flags/build-status/master)
+Radar virtual com as movimentações das aeronaves no estado de Minas Gerais, Brasil.
+
+##Agradecimentos
+Este projeto só foi possível graças a inestimável ajuda de diversas pessoas e comunidades, em especial ao criador do VRS, Andrew Whewell, sempre solícito no [![seu fórum](https://img.shields.io/badge/VRS-Forum-blue.svg)](https://forum.virtualradarserver.co.uk/); Andrew Hill, cujo site [![flights.hillhome.org](https://img.shields.io/badge/flights-hillhome.org-ADD6FF.svg)](http://flights.hillhome.org/) me inspirou profundamente; e a todos da comunidade [![ADS-B Brasil](https://img.shields.io/badge/ADS--B-Brasil-lightgrey.svg)](http://bradsb.com/forum/index.php), entre eles Ramon Martins e Jaime Hempke, que juntos mantêm o excelente site [![TrafegoAereo.com](https://img.shields.io/badge/Trafego-Aereo-yellowgreen.svg)](http://trafegoaereo.com/).
